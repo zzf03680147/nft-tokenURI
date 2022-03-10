@@ -1,0 +1,35 @@
+{
+  "name": "F.U.S.E. Syntax [Two] Silver Edition (Mix: 11111110)",
+  "description": "A new audio-visual experiment under the F.U.S.E. moniker between brothers Richie & Matthew Hawtin continuing their collaboration which started in the 1991 with the seminal electronic music album \"Dimension Intrusion\" on +8/WARP records.\r\n\r\nSyntax [Two] explores the relationship between its innate components and how the re-arrangement of their layer and states create subtle but profound new iterations.\r\n\r\nEach audio & visual layers have been designed to interplay with one another resulting in thousands of unique possiblitlies.\r\n\r\nSyntax [Two] is part of the new F.U.S.E. Syntax release that will be available on all music streaming platforms on June 4th.\r\n\r\nThe release will also include a special version, \"Syntax [Two] @username Async NFT mix\" which will be determined by from the current Master Track state one week after the sale of the Master and all layers. This will give each layer owner the unique opportunity to contribute to the remix of Syntax [Two] by having their layer decisions affect the final audio & visual outcome of this special officially released version.\r\n\r\nIn addition, the current Master owners Async username will be credited in the remixes title.",
+  "image": "QmdqNt8BSoMTxsMEdoVNAJsjPTSrGCx4hPEduok8oZxFzV",
+  "external_url": "https://async.art/music/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-1710/player",
+  "animation_url": "Qme8VAfqe1s5rQQNLbj4Js8QqCsBEMdQPp8pqhqpsAYQ7w",
+  "attributes": [
+    {
+      "trait_type": "Asset Type",
+      "value": "Recording"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Richie Hawtin"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Matthew Hawtin"
+    }
+  ],
+  "async-attributes": {
+    "artists": [
+      "0xb8fe58a20b24401d6a7392ffbbace5c8c9a927ef",
+      "0xb25a2d4605ac6be241c70a7f4829026c19ad557e"
+    ],
+    "signatures": [
+      {
+        "address": "0xB8FE58a20b24401D6A7392FfbBACE5C8C9a927eF",
+        "msg": "F.U.S.E. Syntax [Two] by Richie Hawtin & Matthew Hawtin. Verified Limited Edition minted by Async Art on contract 0x3e43944d977dea22511da6d33c0cab666a604515",
+        "sig": "0x913f1373bfe619eacdfcc05f0a1259806abbb340c166b2a58fc5c12c45dc90f257e6b8544538f0d9a1c0ea07f3867fa3456422fc799c9af1a56c816eba898e921b",
+        "version": "2"
+      }
+    ]
+  }
+}
